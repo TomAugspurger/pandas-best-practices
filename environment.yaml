@@ -1,0 +1,4 @@
+name: pandas
+dependencies:
+    - python=3.7
+    - pandas
